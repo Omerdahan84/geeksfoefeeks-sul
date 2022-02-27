@@ -1,2 +1,2 @@
 # geeksfoefeeks-sul
-c++ vodes
+c++ codes
