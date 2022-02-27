@@ -1,2 +1,2 @@
-# geeksfoefeeks-sul
+# geeksforgeeks-sul
 c++ codes
